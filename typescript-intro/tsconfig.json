@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // npx tsc --init
+    "experimentalDecorators": true
+  }
+}
